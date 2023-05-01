@@ -1,0 +1,39 @@
+#Created MAJESTAR
+KULLANMADAN ÖNCE MUTLAKA HER SATIRINI OKUYUN !! 
+
+BU ARAÇ SADECE LİNUX'UN İNGİLİZCE VERSİYONLARI İÇİN YAMALANMIŞTIR İLERLEYEN ZAMANLARDA TÜRKÇE YAMASI'NA UYUMLU OLACAKTIR
+ÖNCELİKLE SELAM
+
+NELER VAR İÇİNDE ?  
+İlk olarak programı tanıtayım Program SHELL PROGRAMMİNG dili ile yazıldı 
+Program içinde youtube mp3 indirme youtube mp4 indirme dosya silme taşıma kopyalama , eğlencem menüsü gibi birsürü şey var  her menüde öğretici notlar var.
+1 kod bile bilmediğinizi baz alarak yaptım programı. Hiçbir kod bilmeden program aracılığı ile linux'a alışabilirsiniz 
+Gerçekten zorladı yapmak ama çok işe yarar bir program oldu her fonksiyonunun ayrı ayrı özellikleri var Dilerseniz Kurulumu yapalım :)
+
+
+Bilmeniz gereken şeyler : 
+Youtubeden müzik ve video indirdiğinizde birkaç hata sebebi ile masaüstüne getiremedim indireceğiniz dosyaları fakat siz Asistan üzerinden mp3 veya video indirdiğinizde
+Müzik veya video şu klasörde olacaktır /usr/share/yt dilerseniz manuel olarak bu klasöre gidip müziği masaüstüne taşıyın ve keyif ile dinleyin :) 
+
+Birde bazı dosya işlemlerinde işlem yapılacak dosya vs hangi dizinde gibi sorular sormuşum eğer bilmiyor iseniz o dizin içindeyken orada terminal açıp pwd komutu yazıp entere basarsanız 
+olduğu dizini gösterecektir onu kopyalayıp Asistanda istediği yere yapıştırırsanız işlemi yapabilirsiniz
+
+KURULUM 
+  
+NOT : EĞER ROOT KULLANICISI İSENİ BU PROGRAM ÇALIŞMAYACAKTIR ROOT KISMINA ERİŞİM İZNİ VERMEDİM TEHLİKELİ OLDUĞU İÇİN EĞER NORMAL KULLANICI İSENİZ KULLANABİLİRSİNİZ
+
+1- LÜTFEN İNDİRDİĞİNİZ Terminal-Asistan Klasörünü ~/Downloads klasörüne taşıyınız yani masaüstünde bulunan home yazan üstünde ev sembolü olan klasör içindeki Downloads klasörüne :) 
+
+2- Ardından Terminal-Asistan Klasörüne Girip oradayken klasör içinde fareye sağ tıklayıp term Uç birmini burada aç veya İngilizce ise sisteminiz Open terminal here yazacak ona tıklayın
+
+3- Ardından "bash gereksinimler.sh" tırnak içinde verdiğim komutu yazın terminale ve şifre isteyecek sizden şifreyi girerek enter tuşuna basın ve kurulumu kendi kendine yapacaktır 
+
+4- Kurulun bittikten sonra herhangi bir yerde terminal'i açıp terminale sudo Asistan  yazarak asistanı çağırabilirsiniz
+
+şöyle: sudo Asistan  
+
+5- Ve Artık Kullanmaya hazır 
+
+
+
+#CREATED BY MAJESTAR
